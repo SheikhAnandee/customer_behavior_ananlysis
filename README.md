@@ -184,9 +184,7 @@ All visuals update dynamically based on the selected customer segment.
 
 Static preview:
 
-```text
-dashboard/dashboard_screenshot.png
-```
+<img src="dashboard/dashboard_screenshot.png" alt="Power BI Customer Behavior Dashboard" width="900">
 
 Interactive dashboard:
 
